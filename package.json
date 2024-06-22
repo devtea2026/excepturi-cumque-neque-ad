@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/excepturi-cumque-neque-ad",
-  "version": "1.3.49",
+  "version": "1.3.50",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -739,5 +739,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/excepturi-cumque-neque-ad/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
